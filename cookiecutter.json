@@ -1,0 +1,12 @@
+{
+	"project_name": "frontend-sandbox"
+	,"project_home": "https://github.com/dataloudlabs/frontend-sandbox"
+	,"author": "DataLoudLabs"
+	,"project_description": "Boiler plate project with browsersync, gulp, knockout and d3.js set up."
+	,"license": "MIT"
+	,"project_title": "Frontend WebDev Boilerplate"
+	,"license_url": "https://github.com/dataloudlabs/frontend-sandbox/LICENSE"
+	,"project_repo": "git://github.com/dataloudlabs/frontend-sandbox.git"
+	,"company_name": "DataLoudLabs"
+	,"company_home": "https://github.com/dataloudlabs"
+}

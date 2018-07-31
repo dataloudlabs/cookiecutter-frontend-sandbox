@@ -1,4 +1,4 @@
-# [Company Name](http://github.com/) - [Project Name](http://github.com)
+# [{{cookiecutter.company_name}}]({{cookiecutter.company_home}}) - [{{cookiecutter.project_title}}]({{cookiecutter.project_home}})
 
 Boiler plate front end dev sandbox. Based on [start-bootstrap](https://startbootstrap.com)
 

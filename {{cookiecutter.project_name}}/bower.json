@@ -1,16 +1,16 @@
 {
-  "name": "dloud-frontend-sandbox",
-  "homepage": "https://github.com/dataloudlabs/",
+  "name": "{{cookiecutter.project_name}}",
+  "homepage": "{{cookiecutter.project_home}}",
   "version": "3.3.7+1",
   "authors": [
-    "David Miller"
+    "{{cookiecutter.author}}"
   ],
-  "description": "Boiler plate front end dev sandbox.",
+  "description": "{{cookiecutter.project_description}}",
   "keywords": [
     "bootstrap",
     "theme"
   ],
-  "license": "MIT",
+  "license": "{{cookiecutter.license}}",
   "ignore": [
     "**/.*",
     "node_modules",
