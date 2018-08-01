@@ -17,6 +17,13 @@ Boiler plate front end dev sandbox. Based on [start-bootstrap](https://startboot
 	  gulp dev        # run dev task (runs browserSync when finished)
 	```
 
+* *package.json* also as start and test scripts.
+	```
+	npm start         # this runs the gulp dev task
+	npm test          # this starts testem and runs the test specs
+	```
+
+
 ## Using the Source Files
 
 After cloning the repo take a look at the `gulpfile.js` and check out the tasks available:

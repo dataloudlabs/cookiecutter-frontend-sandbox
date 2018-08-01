@@ -5,13 +5,16 @@ Creates a boiler plate project based on [start-bootstrap](https://startbootstrap
 
 ##### Use template
 
-``` bash
-cookiecutter https://github.com/dataloudlabs/frontend-sandbox.git
-```
+	```
+	cookiecutter https://github.com/dataloudlabs/frontend-sandbox.git
+	```
 
 ##### Start developing
-``` bash
-# cd into the projects directory...
-npm install ; bower install; gulp copy ; gulp dev
-```
+
+	```
+	# cd into the projects directory...
+	npm install ; bower install; gulp copy ; gulp dev
+	```
+
+> *package.json* also creates **start** and **test** scripts for further development
 

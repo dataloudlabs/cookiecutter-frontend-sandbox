@@ -8,6 +8,10 @@
     "type": "MIT",
     "url": "{{cookiecutter.license_url}}"
   },
+  "scripts": {
+    "start": "gulp dev"
+    ,"test": "testem -f testem-client.yml -p 7357"
+  },
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",

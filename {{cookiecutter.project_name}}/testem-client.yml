@@ -1,0 +1,15 @@
+framework: "jasmine2"
+protocol: "tap"
+src_files:
+- vendor/jquery/jquery.min.js
+- vendor/bootstrap/js/bootstrap.min.js
+- vendor/d3/d3.min.js
+- vendor/handsontable/handsontable.full.min.js
+- vendor/knockout/knockout.js
+
+- dist/js/script.js
+
+- "spec/helpers/mock-ajax.js"
+- "spec/helpers/fake_data.js"
+- "spec/client/*.js"
+
