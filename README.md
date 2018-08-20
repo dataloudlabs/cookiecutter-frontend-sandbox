@@ -6,7 +6,7 @@ Creates a boiler plate project based on [start-bootstrap](https://startbootstrap
 ##### Use template
 
 	```
-	cookiecutter https://github.com/dataloudlabs/frontend-sandbox.git
+	cookiecutter https://github.com/dataloudlabs/cookiecutter-frontend-sandbox.git
 	```
 
 ##### Start developing
